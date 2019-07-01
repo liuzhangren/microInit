@@ -2,6 +2,8 @@
 
 -  yarn | npm install
 
+- yarn dev | npm run dev
+
 ## 如何使用?
 
 - src下的route.js 为路由的配置项，格式模仿原有demo即可
